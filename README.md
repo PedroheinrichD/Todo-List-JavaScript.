@@ -23,7 +23,7 @@ Aplicação simples de lista de tarefas desenvolvida com **HTML, CSS e JavaScrip
 ## 🔗 Acesse o projeto
 
 GitHub Pages:  
-https://pedroheinrichd.github.io/To-Do-List-com-JavaScript-Manipula-o-de-DOM-/
+https://pedroheinrichd.github.io/Todo-List-JavaScript./
 
 ## 🛠️ Tecnologias utilizadas
 
